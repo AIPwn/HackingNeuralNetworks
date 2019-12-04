@@ -11,15 +11,19 @@
 
 ## 练习
 
-0 - Last Layer Attack
-1 - Backdooring
-2 - Extracting Information
-3 - Brute Forcing
-4 - Neural Overflow
-5 - Malware Injection
-6 - Neural Obfuscation
-7 - Bug Hunting
-8 - GPU Attack
+
+| 序号 |	       内容            |  状态         |  公众号链接  |  更新链接    |
+| --- | ---------------------  | ------------  | ---------- | ----------  |
+|  0  | Last Layer Attack      |               |            |             | 
+|  1  | Backdooring            |               |            |             | 
+|  2  | Extracting Information |               |            |             | 
+|  3  | Brute Forcing          |               |            |             | 
+|  4  | Neural Overflow        |               |            |             | 
+|  5  | Malware Injection      |               |            |             | 
+|  6  | Neural Obfuscation     |               |            |             | 
+|  7  | Bug Hunting            |               |            |             | 
+|  8  | GPU Attack             |               |            |             | 
+
 
 
 ## 参考
