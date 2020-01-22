@@ -34,7 +34,7 @@ AI与安全：神经网络攻防专栏
 练习来自：[Kayzaks](https://github.com/Kayzaks/HackingNeuralNetworks) 和 [Takaesu](https://github.com/13o-bbr-bbq/machine_learning_security)
 
 
-## 公众号：AI与安全
+## 公众号：P爷做AI
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9kpvk6dhdj3076076mxn.jpg)
 
 
