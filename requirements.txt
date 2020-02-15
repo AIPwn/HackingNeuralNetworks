@@ -1,0 +1,4 @@
+Keras
+numpy
+scikit-learn
+scikit-image
