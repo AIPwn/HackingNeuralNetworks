@@ -1,4 +1,5 @@
 Keras
 numpy
-scikit-learn
+SciPy
 scikit-image
+nltk
