@@ -1,6 +1,8 @@
 # HackingNeuralNetworks
 
-AI与安全：神经网络攻防专栏
+P小二：神经网络攻防专栏
+
+网址：(神经网络攻防专栏)[http://aipwn.org/HackingNeuralNetworks/]
 
 
 ## 专栏
@@ -29,12 +31,17 @@ AI与安全：神经网络攻防专栏
 |  8  | GPU Attack             |               |            |             | 
 
 
+## 练习环境
+
+
+
 
 ## 参考
-练习来自：[Kayzaks](https://github.com/Kayzaks/HackingNeuralNetworks) 和 [Takaesu](https://github.com/13o-bbr-bbq/machine_learning_security)
+- 练习来自：[Kayzaks](https://github.com/Kayzaks/HackingNeuralNetworks) 
+- [Takaesu](https://github.com/13o-bbr-bbq/machine_learning_security)
 
 
-## 公众号：P爷做AI
+## 公众号：P小二
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9kpvk6dhdj3076076mxn.jpg)
 
 
