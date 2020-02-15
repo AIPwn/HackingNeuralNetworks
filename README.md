@@ -2,7 +2,8 @@
 
 P小二：神经网络攻防专栏
 
-网址：(神经网络攻防专栏)[http://aipwn.org/HackingNeuralNetworks/]
+
+连载网址：[神经网络攻防专栏](http://aipwn.org/HackingNeuralNetworks/)
 
 
 ## 专栏
