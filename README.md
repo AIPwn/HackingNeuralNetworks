@@ -12,8 +12,9 @@ P小二：神经网络攻防专栏
 | ---  |  ---------------------          | ------------          |
 | 00   | [开篇词——你所不知道的神经网络攻防](https://mp.weixin.qq.com/s/TljKNJBGpOMsrpdbsLR0jQ) | [开篇词——你所不知道的神经网络攻防](https://pxiaoer.blog/2020/07/01/hackingneuralnetworks-you-dont-know-that/) |
 | 00   | [(选学) 神经网络攻防 \| 机器学习预备知识(一)](https://mp.weixin.qq.com/s/K2MbIETMwrt5jj-icz8I-w) | [(选学) 神经网络攻防 \|机器学习预备知识(一) ](https://pxiaoer.blog/2020/07/01/hackingneuralnetworks-ml-tutorial/)   |
-| 01   | [01.模型到底是什么？](https://mp.weixin.qq.com/s/fH0azKPdS3G2WX9HqpuRgQ) | [01.模型到底是什么？]  |
-| 02   | [02.攻击模型的输出层](https://mp.weixin.qq.com/s/g0sL0z3hsclphwrIDnB6TQ) | [02.攻击模型的输出层]  |
+| 01   | [01.模型到底是什么？](https://mp.weixin.qq.com/s/fH0azKPdS3G2WX9HqpuRgQ) |          |
+| 02   | [02.攻击模型的输出层](https://mp.weixin.qq.com/s/g0sL0z3hsclphwrIDnB6TQ) |          |
+| 03   | [03.使用API修改神经网络参数](https://mp.weixin.qq.com/s/F1eRhtbLoPwsoJ9SIYThng) |   |
 
 
 
