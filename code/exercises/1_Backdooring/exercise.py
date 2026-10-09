@@ -11,6 +11,7 @@ the example. Don't forget to save the model using model.save('model.h5')
 
 import keras
 import numpy as np
+import sys 
 from skimage import io
 
 # Load the Model 
@@ -27,7 +28,7 @@ for i in range(10):
     shownDigit = np.argmax(model.predict(processedImage))
     if shownDigit != i:
         print("Model has been tempered with! Exiting!")
-        exit()
+        sys.exit()
         
 
 # Load the Image File with skimage.
